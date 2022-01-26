@@ -1,5 +1,6 @@
 print('manin menu')
 print('hello')
+print('hello-world')
 
 git config --global user.email "ratthaslip.booster@gmail.com"
 git config --global user.email "iotinvationlab"
