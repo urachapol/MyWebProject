@@ -1,18 +1,18 @@
 # MyWebProject
 Project create by Uracha Polchiangkwang
 
-#Features
+# Features
 - List 1
 - List 2
 - List 3
 
-#Example code
+# Example code
 <javascript>
-	alert('ok');
+	alert('ok test');
 </javascript>
 
-#Credit
+# Credit
 uracha_tey.01@hotmail.com
  
-#License
+# License
 MIT License
